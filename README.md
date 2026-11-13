@@ -7,7 +7,6 @@ A mod for **Among Us** that unlocks skins and cosmetics while providing addition
 - 🔓 Unlock additional skins and cosmetics.
 - 🎨 Customize your crewmate's appearance.
 - 👕 Access different cosmetic options.
-- 🚫 **Ban Points Removal:** Removes the penalty points received when leaving a game lobby.
 - ⚙️ Simple and easy-to-use system.
 - 🚀 Lightweight mod.
 
